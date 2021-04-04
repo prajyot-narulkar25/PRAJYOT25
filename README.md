@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRAJYOT25
 - 👀 I’m interested in Front end Techs
-- 🌱 I’m currently learning Vue 
+- 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on Front end repos
 - 📫 How to reach me connect me on prajyotnarulkar@gmail.com or ping me on skype(prajyotnarulkar15)
 
