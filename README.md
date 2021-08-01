@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRAJYOT25
-- 👀 I’m interested in Front end Techs
+- 👀 I’m interested in Front End Techs and Flutter
 - 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on Front End repos
 - 📫 How to reach me connect me on prajyotnarulkar@gmail.com or ping me on skype(prajyotnarulkar15)
