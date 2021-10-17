@@ -1,4 +1,4 @@
- 👋 Hi, I’m Prajyot Narulkar!
+ 👋 Hi, I’m ***Prajyot Narulkar***!
 
 ## Introduction
 
