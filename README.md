@@ -11,9 +11,10 @@ Skills:<br/>
 Angular, Vue.js, Flutter, ,Docker, Kubernetes, Javascript, Openshift, Microsoft Azure, AWS
 
 Certifications:<br/> 
-<a href="https://www.credly.com/badges/f44a7cef-7118-49d4-b378-f8b4b3335aa4/public_url">Microsoft Certified</a><br/> 
-<a href="https://www.credly.com/badges/178ee96d-3bca-4bd9-8526-366864e7e6c1/public_url">AWS Certified</a>
 
+<a href="https://www.credly.com/badges/f9ed0b48-3f2b-44a2-a77a-0b6e9fcce76e/public_url">HashiCorp Certified: Terraform Associate</a><br/> 
+<a href="https://www.credly.com/badges/178ee96d-3bca-4bd9-8526-366864e7e6c1/public_url">AWS Certified Cloud Practitioner</a><br/> 
+<a href="https://www.credly.com/badges/f44a7cef-7118-49d4-b378-f8b4b3335aa4/public_url">Microsoft Certified: Azure Fundamentalsd</a>
 
 RED HAT ACCREDITED PROFESSIONAL:<br/> 
 • Red Hat Delivery Specialist - Container Platform Application Deployment
