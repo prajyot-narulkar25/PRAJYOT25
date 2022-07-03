@@ -8,7 +8,7 @@ Experience:<br/>
 3 Years of Experience in Front End Development, 6 Months Experience in Fluter, 1.5 years of Experience in Docker, Kubernetes, Openshift, Operator development and 6 months Experience in AWS.
 
 Skills:<br/> 
-Angular, Vue.js, Flutter, ,Docker, Kubernetes, Javascript, Openshift, Microsoft Azure, AWS
+Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Ansible, Terraform, Microsoft Azure, AWS.
 
 Certifications:<br/> 
 
