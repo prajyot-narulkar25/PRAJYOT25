@@ -5,7 +5,7 @@
 A skilled developer who specialising in identifying client requirements and implementing the same. A result oriented professional who can work in a fast paced work environment and able to deliver on time and with quality. Quick learner and enjoys being a part of a successful and productive team as well, possess a strong ability to perform individually.<br/> 
 
 Experience:<br/> 
-3 Years of Experience in Front End Development, 6 Months Experience in Fluter, 1.5 years of Experience in Docker, Kubernetes, Openshift, Operator development and 6 months Experience in AWS.
+3 Years of Experience in Front End Development, 6 Months Experience in Flutter, 2 years of Experience in Docker, Kubernetes, OpenShift, Operator development and 6 months Experience in AWS.
 
 Skills:<br/> 
 Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Ansible, Terraform, Microsoft Azure, AWS.
