@@ -5,10 +5,10 @@
 A skilled developer who specialising in identifying client requirements and implementing the same. A result oriented professional who can work in a fast paced work environment and able to deliver on time and with quality. Quick learner and enjoys being a part of a successful and productive team as well, possess a strong ability to perform individually.<br/> 
 
 Experience:<br/> 
-3 Years of Experience in Front End Development, 6 Months Experience in Flutter, 2.5 years of Experience in Docker, Kubernetes, OpenShift, Operator development AWS & Microsoft Azure.
+3 Years of Experience in Front End Development, 6 Months Experience in Flutter, 2.5 years of Experience in Docker, Kubernetes, OpenShift, Ansible Operator development, AWS & Microsoft Azure.
 
 Skills:<br/> 
-Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Ansible, Terraform, Microsoft Azure, AWS.
+Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Helm, Ansible, Terraform, Microsoft Azure, AWS.
 
 Certifications:<br/> 
 <a href="https://www.credly.com/badges/41d0b949-9faa-40b5-b92a-9e9087da535f/public_url" target="_blank">Microsoft Certified: Azure Developer Associate</a><br/> 
