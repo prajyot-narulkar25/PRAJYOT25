@@ -11,6 +11,7 @@ Skills:<br/>
 Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Ansible, Terraform, Microsoft Azure, AWS.
 
 Certifications:<br/> 
+<a href="https://www.credly.com/badges/41d0b949-9faa-40b5-b92a-9e9087da535f/public_url" target="_blank">Microsoft Certified: Azure Developer Associate</a><br/> 
 <a href="https://www.credly.com/badges/ed5a8444-2116-48ce-8423-073beb024ae2/public_url" target="_blank">CKAD: Certified Kubernetes Application Developer</a><br/> 
 <a href="https://www.credly.com/badges/41809b22-9f3c-458b-b12e-98f684fe4a14/public_url" target="_blank">Microsoft Certified: Azure Administrator Associate</a><br/> 
 <a href="https://www.credly.com/badges/f9ed0b48-3f2b-44a2-a77a-0b6e9fcce76e/public_url" target="_blank">HashiCorp Certified: Terraform Associate</a><br/> 
