@@ -5,18 +5,18 @@
 A skilled developer who specialising in identifying client requirements and implementing the same. A result oriented professional who can work in a fast paced work environment and able to deliver on time and with quality. Quick learner and enjoys being a part of a successful and productive team as well, possess a strong ability to perform individually.<br/> 
 
 Experience:<br/> 
-3 Years of Experience in Front End Development, 6 Months Experience in Flutter, 2.5 years of Experience in Docker, Kubernetes, OpenShift, Ansible Operator development, AWS & Microsoft Azure.
+3 Years of Experience in Front End Development, 6 Months Experience in Flutter, 2.5+ years of Experience in Docker, Kubernetes, OpenShift, Ansible Operator development, AWS & Microsoft Azure.
 
 Skills:<br/> 
 Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Helm, Ansible, Terraform, Microsoft Azure, AWS.
 
-Certifications:<br/> 
-<a href="https://www.credly.com/badges/41d0b949-9faa-40b5-b92a-9e9087da535f/public_url" target="_blank">Microsoft Certified: Azure Developer Associate</a><br/> 
-<a href="https://www.credly.com/badges/ed5a8444-2116-48ce-8423-073beb024ae2/public_url" target="_blank">CKAD: Certified Kubernetes Application Developer</a><br/> 
-<a href="https://www.credly.com/badges/41809b22-9f3c-458b-b12e-98f684fe4a14/public_url" target="_blank">Microsoft Certified: Azure Administrator Associate</a><br/> 
-<a href="https://www.credly.com/badges/f9ed0b48-3f2b-44a2-a77a-0b6e9fcce76e/public_url" target="_blank">HashiCorp Certified: Terraform Associate</a><br/> 
-<a href="https://www.credly.com/badges/178ee96d-3bca-4bd9-8526-366864e7e6c1/public_url" target="_blank">AWS Certified Cloud Practitioner</a><br/> 
-<a href="https://www.credly.com/badges/f44a7cef-7118-49d4-b378-f8b4b3335aa4/public_url" target="_blank">Microsoft Certified: Azure Fundamentals</a>
+<b>Certifications</b>:<br/> 
+<img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Microsoft Certified: Azure Developer Associate" width="90" height="90" style="padding:0 10px"/>
+<img src="https://images.credly.com/size/220x220/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD: Certified Kubernetes Application Developer" width="90" height="90" style="padding:0 10px"/>
+<img src="https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsoft Certified: Azure Administrator Associate" width="90" height="90" style="padding:0 10px"/>
+<img src="https://images.credly.com/size/220x220/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="90" height="90" style="padding:0 10px"/>
+<img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90" height="90" style="padding:0 10px"/>
+<img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="90" height="90" style="padding:0 10px"/></br>
 
 RED HAT ACCREDITED PROFESSIONAL:<br/> 
 • Red Hat Delivery Specialist - Container Platform Application Deployment
