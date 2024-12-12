@@ -13,7 +13,7 @@ Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Helm, Ansib
 <b>Certifications</b>:<br/> 
 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Microsoft Certified: DevOps Engineer Expert" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Microsoft Certified: Azure Developer Associate" width="90" height="90" style="padding:0 10px"/>
-<img src="https://images.credly.com/size/220x220/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD: Certified Kubernetes Application Developer" width="90" height="90" style="padding:0 10px"/>
+<img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsoft Certified: Azure Administrator Associate" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/220x220/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90" height="90" style="padding:0 10px"/>
