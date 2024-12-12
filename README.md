@@ -5,7 +5,7 @@
 I'm a proficient developer with a focus on deciphering client needs and translating them into actionable solutions. I thrive in high-paced work settings, consistently delivering quality work within deadlines. I'm adept at swift learning and take pleasure in contributing to accomplished and efficient teams. Additionally, I have a robust capacity for excelling both independently and as part of a team..<br/> 
 
 Experience:<br/> 
-I have accumulated 3 years of Front-End Development experience, 6 months of expertise in Flutter, and over 3 years of proficiency in Docker, Kubernetes, OpenShift, as well as Ansible Operator development, across both AWS and Microsoft Azure platforms.
+I have accumulated 3 years of Front-End Development experience, 6 months of expertise in Flutter, and over 4 years of proficiency in Docker, Kubernetes, OpenShift, as well as Ansible Operator development, across both AWS and Microsoft Azure platforms.
 
 Skills:<br/> 
 Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Helm, Ansible, Terraform, Microsoft Azure, AWS.
