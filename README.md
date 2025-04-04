@@ -15,7 +15,7 @@ Angular, Vue.js, Flutter, Docker, Kubernetes, Javascript, Openshift, Helm, Ansib
 <img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Microsoft Certified: Azure Developer Associate" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Microsoft Certified: Azure Administrator Associate" width="90" height="90" style="padding:0 10px"/>
-<img src="https://images.credly.com/size/220x220/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="90" height="90" style="padding:0 10px"/>
+<img src="https://images.credly.com/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90" height="90" style="padding:0 10px"/>
 <img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="90" height="90" style="padding:0 10px"/></br>
 
